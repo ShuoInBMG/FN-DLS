@@ -8,7 +8,6 @@ Automated extraction, digital reconstruction and mechanical analysis of stranded
 
 ## ✨ What’s new compared to FN-DLS  
 - **Bundling Recognition** – distinguishes individual fibrils from multi-fibril bundles.  
-- **Hierarchical Parsing** – preserves and labels structural hierarchy across length-scales.  
 - **End-to-End Pipeline** – from raw AFM scan to quantitative network metrics in one call.
 
 ---
