@@ -17,4 +17,4 @@ Automated extraction, digital reconstruction and mechanical analysis of stranded
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-lab/SFN-DLS.git
-   cd SFN-DLS
+   cd sfn
